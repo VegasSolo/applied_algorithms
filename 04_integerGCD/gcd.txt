@@ -1,0 +1,418 @@
+For GCD(0,73). It should be 0:
+One of the integers was zero. The GCD is 0. This took 0 microseconds.
+Timing tests are complete for this pair. The GCD should have been 0
+
+For GCD(263,151). It should be 1:
+Euclid returned a gcd of 1 and took 0.2840 microseconds.
+Extended Euclid returned a gcd of 1 and (a,b) of (-31 ,54) and took 0.2850 microseconds.
+Binary returned a gcd of 1 and took 0.5690 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 79 and took 1.7070 microseconds.
+     k value of 3 resulted in gcd of 46 and took 0.8530 microseconds.
+     k value of 4 resulted in gcd of 103 and took 0.5690 microseconds.
+     k value of 6 resulted in gcd of 23 and took 1.1370 microseconds.
+     k value of 11 resulted in gcd of 37 and took 0.5690 microseconds.
+     k value of 19 resulted in gcd of 21 and took 0.8530 microseconds.
+     k value of 28 resulted in gcd of 1 and took 0.8530 microseconds.
+     k value of 31 resulted in gcd of 13 and took 0.8540 microseconds.
+     k value of 42 resulted in gcd of 1 and took 1.1370 microseconds.
+     k value of 73 resulted in gcd of 5 and took 0.8540 microseconds.
+     k value of 74 resulted in gcd of 5 and took 0.8540 microseconds.
+     k value of 200 resulted in gcd of 1 and took 0.8530 microseconds.
+     k value of 209 resulted in gcd of 1 and took 0.8530 microseconds.
+     k value of 1951 resulted in gcd of 151 and took 0.5680 microseconds.
+     k value of 1954 resulted in gcd of 151 and took 0.8530 microseconds.
+     k value of 7919 resulted in gcd of 151 and took 0.8530 microseconds.
+     k value of 64000 resulted in gcd of 151 and took 0.5690 microseconds.
+     k value of 65537 resulted in gcd of 151 and took 0.8540 microseconds.
+     k value of 8420742 resulted in gcd of 151 and took 0.8530 microseconds.
+     k value of 2147483647 resulted in gcd of 151 and took 0.8540 microseconds.
+     k value of 20 resulted in gcd of 1 and took 1.1380 microseconds.
+Timing tests are complete for this pair. The GCD should have been 1
+
+For GCD(10,20). It should be 10:
+Euclid returned a gcd of 10 and took 0.2840 microseconds.
+Extended Euclid returned a gcd of 10 and (a,b) of (1 ,0) and took 0.0000 microseconds.
+Binary returned a gcd of 10 and took 0.2850 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 5 and took 0.8540 microseconds.
+     k value of 3 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 4 resulted in gcd of 5 and took 0.5690 microseconds.
+     k value of 6 resulted in gcd of 5 and took 0.8530 microseconds.
+     k value of 11 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 19 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 28 resulted in gcd of 5 and took 0.8530 microseconds.
+     k value of 31 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 42 resulted in gcd of 5 and took 0.8540 microseconds.
+     k value of 73 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 5 and took 0.8540 microseconds.
+     k value of 200 resulted in gcd of 1 and took 0.8540 microseconds.
+     k value of 209 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 1951 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 5 and took 0.8540 microseconds.
+     k value of 7919 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 64000 resulted in gcd of 1 and took 0.8530 microseconds.
+     k value of 65537 resulted in gcd of 10 and took 0.8530 microseconds.
+     k value of 8420742 resulted in gcd of 5 and took 1.7060 microseconds.
+     k value of 2147483647 resulted in gcd of 10 and took 0.5690 microseconds.
+     k value of 5 resulted in gcd of 2 and took 0.5690 microseconds.
+Timing tests are complete for this pair. The GCD should have been 10
+
+For GCD(84,12). It should be 12:
+Euclid returned a gcd of 12 and took 0.2840 microseconds.
+Extended Euclid returned a gcd of 12 and (a,b) of (0 ,1) and took 0.2850 microseconds.
+Binary returned a gcd of 12 and took 0.5690 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 3 and took 1.1380 microseconds.
+     k value of 3 resulted in gcd of 4 and took 3.1290 microseconds.
+     k value of 4 resulted in gcd of 3 and took 1.4220 microseconds.
+     k value of 6 resulted in gcd of 1 and took 1.1380 microseconds.
+     k value of 11 resulted in gcd of 6 and took 1.7070 microseconds.
+     k value of 19 resulted in gcd of 10 and took 1.1370 microseconds.
+     k value of 28 resulted in gcd of 3 and took 0.8540 microseconds.
+     k value of 31 resulted in gcd of 9 and took 1.1380 microseconds.
+     k value of 42 resulted in gcd of 1 and took 1.1380 microseconds.
+     k value of 73 resulted in gcd of 9 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 1 and took 1.4220 microseconds.
+     k value of 200 resulted in gcd of 3 and took 0.8530 microseconds.
+     k value of 209 resulted in gcd of 3 and took 0.5690 microseconds.
+     k value of 1951 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 3 and took 1.4230 microseconds.
+     k value of 7919 resulted in gcd of 12 and took 0.5680 microseconds.
+     k value of 64000 resulted in gcd of 3 and took 1.1380 microseconds.
+     k value of 65537 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 8420742 resulted in gcd of 1 and took 2.2750 microseconds.
+     k value of 2147483647 resulted in gcd of 12 and took 0.8530 microseconds.
+     k value of 9 resulted in gcd of 1 and took 1.7060 microseconds.
+Timing tests are complete for this pair. The GCD should have been 12
+
+For GCD(70,28). It should be 14:
+Euclid returned a gcd of 14 and took 0.2840 microseconds.
+Extended Euclid returned a gcd of 14 and (a,b) of (1 ,-2) and took 0.2850 microseconds.
+Binary returned a gcd of 14 and took 0.2850 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 7 and took 1.4220 microseconds.
+     k value of 3 resulted in gcd of 20 and took 1.4220 microseconds.
+     k value of 4 resulted in gcd of 5 and took 1.1380 microseconds.
+     k value of 6 resulted in gcd of 7 and took 1.4220 microseconds.
+     k value of 11 resulted in gcd of 17 and took 0.5690 microseconds.
+     k value of 19 resulted in gcd of 10 and took 0.8530 microseconds.
+     k value of 28 resulted in gcd of 1 and took 0.8530 microseconds.
+     k value of 31 resulted in gcd of 6 and took 0.5690 microseconds.
+     k value of 42 resulted in gcd of 1 and took 0.8530 microseconds.
+     k value of 73 resulted in gcd of 2 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 1 and took 1.4220 microseconds.
+     k value of 200 resulted in gcd of 7 and took 0.8540 microseconds.
+     k value of 209 resulted in gcd of 28 and took 0.5690 microseconds.
+     k value of 1951 resulted in gcd of 28 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 7 and took 1.4220 microseconds.
+     k value of 7919 resulted in gcd of 28 and took 0.5690 microseconds.
+     k value of 64000 resulted in gcd of 7 and took 1.1370 microseconds.
+     k value of 65537 resulted in gcd of 28 and took 0.8540 microseconds.
+     k value of 8420742 resulted in gcd of 7 and took 1.7070 microseconds.
+     k value of 2147483647 resulted in gcd of 28 and took 0.8530 microseconds.
+     k value of 9 resulted in gcd of 7 and took 0.8530 microseconds.
+Timing tests are complete for this pair. The GCD should have been 14
+
+For GCD(19005,78054). It should be 3:
+Extended Euclid returned a gcd of 3 and (a,b) of (12395 ,-3018) and took 0.2840 microseconds.
+Binary returned a gcd of 3 and took 0.2840 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 19005 and took 0.8530 microseconds.
+     k value of 3 resulted in gcd of 6335 and took 1.1380 microseconds.
+     k value of 4 resulted in gcd of 19005 and took 0.8530 microseconds.
+     k value of 6 resulted in gcd of 6335 and took 1.1380 microseconds.
+     k value of 11 resulted in gcd of 19005 and took 0.5690 microseconds.
+     k value of 19 resulted in gcd of 19005 and took 0.5690 microseconds.
+     k value of 28 resulted in gcd of 2715 and took 1.1380 microseconds.
+     k value of 31 resulted in gcd of 19005 and took 0.5690 microseconds.
+     k value of 42 resulted in gcd of 905 and took 1.1380 microseconds.
+     k value of 73 resulted in gcd of 19005 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 19005 and took 1.1380 microseconds.
+     k value of 200 resulted in gcd of 3801 and took 1.4220 microseconds.
+     k value of 209 resulted in gcd of 19005 and took 0.5690 microseconds.
+     k value of 1951 resulted in gcd of 19005 and took 0.8530 microseconds.
+     k value of 1954 resulted in gcd of 19005 and took 0.8540 microseconds.
+     k value of 7919 resulted in gcd of 19005 and took 0.8540 microseconds.
+     k value of 64000 resulted in gcd of 3801 and took 1.4220 microseconds.
+     k value of 65537 resulted in gcd of 19005 and took 0.5690 microseconds.
+     k value of 8420742 resulted in gcd of 6335 and took 1.9910 microseconds.
+     k value of 2147483647 resulted in gcd of 19005 and took 0.8530 microseconds.
+     k value of 311 resulted in gcd of 19005 and took 0.5690 microseconds.
+Timing tests are complete for this pair. The GCD should have been 3
+
+For GCD(11485,86245). It should be 5:
+Extended Euclid returned a gcd of 5 and (a,b) of (-7622 ,1015) and took 0.2840 microseconds.
+Binary returned a gcd of 5 and took 0.5690 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 3 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 4 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 6 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 11 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 19 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 28 resulted in gcd of 11485 and took 0.5680 microseconds.
+     k value of 31 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 42 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 73 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 200 resulted in gcd of 2297 and took 1.1380 microseconds.
+     k value of 209 resulted in gcd of 11485 and took 0.5680 microseconds.
+     k value of 1951 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 11485 and took 0.5690 microseconds.
+     k value of 7919 resulted in gcd of 11485 and took 0.8540 microseconds.
+     k value of 64000 resulted in gcd of 2297 and took 1.1380 microseconds.
+     k value of 65537 resulted in gcd of 11485 and took 0.5680 microseconds.
+     k value of 8420742 resulted in gcd of 11485 and took 0.8540 microseconds.
+     k value of 2147483647 resulted in gcd of 11485 and took 1.1380 microseconds.
+     k value of 312 resulted in gcd of 11485 and took 0.5690 microseconds.
+Timing tests are complete for this pair. The GCD should have been 5
+
+For GCD(12,12). It should be 12:
+Euclid returned a gcd of 12 and took 0.0000 microseconds.
+Extended Euclid returned a gcd of 12 and (a,b) of (0 ,1) and took 0.2840 microseconds.
+Binary returned a gcd of 12 and took 0.2840 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 12 and took 0.2850 microseconds.
+     k value of 3 resulted in gcd of 12 and took 0.2850 microseconds.
+     k value of 4 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 6 resulted in gcd of 12 and took 0.2840 microseconds.
+     k value of 11 resulted in gcd of 12 and took 0.2840 microseconds.
+     k value of 19 resulted in gcd of 12 and took 0.2850 microseconds.
+     k value of 28 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 31 resulted in gcd of 12 and took 0.5680 microseconds.
+     k value of 42 resulted in gcd of 12 and took 0.2850 microseconds.
+     k value of 73 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 200 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 209 resulted in gcd of 12 and took 0.2840 microseconds.
+     k value of 1951 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 7919 resulted in gcd of 12 and took 0.2850 microseconds.
+     k value of 64000 resulted in gcd of 12 and took 0.5680 microseconds.
+     k value of 65537 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 8420742 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 2147483647 resulted in gcd of 12 and took 0.5690 microseconds.
+     k value of 4 resulted in gcd of 12 and took 0.2840 microseconds.
+Timing tests are complete for this pair. The GCD should have been 12
+
+For GCD(9875243,7412549). It should be 1:
+Extended Euclid returned a gcd of 1 and (a,b) of (-3667344 ,101) and took 0.2850 microseconds.
+Binary returned a gcd of 1 and took 0.5690 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 1080487 and took 2.2750 microseconds.
+     k value of 3 resulted in gcd of 5762597 and took 1.4230 microseconds.
+     k value of 4 resulted in gcd of 1080487 and took 1.1380 microseconds.
+     k value of 6 resulted in gcd of 1440649 and took 1.4220 microseconds.
+     k value of 11 resulted in gcd of 1571617 and took 1.1380 microseconds.
+     k value of 19 resulted in gcd of 909883 and took 1.1380 microseconds.
+     k value of 28 resulted in gcd of 1410749 and took 1.1370 microseconds.
+     k value of 31 resulted in gcd of 557670 and took 1.1370 microseconds.
+     k value of 42 resulted in gcd of 1410749 and took 1.1380 microseconds.
+     k value of 73 resulted in gcd of 236819 and took 1.1380 microseconds.
+     k value of 74 resulted in gcd of 3157 and took 1.4220 microseconds.
+     k value of 200 resulted in gcd of 43219 and took 1.7070 microseconds.
+     k value of 209 resulted in gcd of 82716 and took 1.4220 microseconds.
+     k value of 1951 resulted in gcd of 8860 and took 1.1380 microseconds.
+     k value of 1954 resulted in gcd of 8847 and took 1.4230 microseconds.
+     k value of 7919 resulted in gcd of 2183 and took 1.1370 microseconds.
+     k value of 64000 resulted in gcd of 27 and took 1.7070 microseconds.
+     k value of 65537 resulted in gcd of 263 and took 1.4220 microseconds.
+     k value of 8420742 resulted in gcd of 1 and took 1.7070 microseconds.
+     k value of 2147483647 resulted in gcd of 7412549 and took 1.1380 microseconds.
+     k value of 4157 resulted in gcd of 4158 and took 1.4230 microseconds.
+Timing tests are complete for this pair. The GCD should have been 1
+
+For GCD(9875242,7412542). It should be 2:
+Extended Euclid returned a gcd of 2 and (a,b) of (-1374726 ,-86) and took 0.2850 microseconds.
+Binary returned a gcd of 2 and took 0.5690 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 2160973 and took 2.2760 microseconds.
+     k value of 3 resulted in gcd of 5762594 and took 1.1380 microseconds.
+     k value of 4 resulted in gcd of 2160973 and took 1.7070 microseconds.
+     k value of 6 resulted in gcd of 20009 and took 2.5600 microseconds.
+     k value of 11 resulted in gcd of 1571616 and took 1.1380 microseconds.
+     k value of 19 resulted in gcd of 909883 and took 1.1380 microseconds.
+     k value of 28 resulted in gcd of 154355 and took 2.2760 microseconds.
+     k value of 31 resulted in gcd of 557670 and took 1.1380 microseconds.
+     k value of 42 resulted in gcd of 34301 and took 2.2760 microseconds.
+     k value of 73 resulted in gcd of 236818 and took 1.1370 microseconds.
+     k value of 74 resulted in gcd of 3157 and took 2.2760 microseconds.
+     k value of 200 resulted in gcd of 43219 and took 1.9910 microseconds.
+     k value of 209 resulted in gcd of 82716 and took 1.4220 microseconds.
+     k value of 1951 resulted in gcd of 8860 and took 1.1380 microseconds.
+     k value of 1954 resulted in gcd of 4423 and took 1.9910 microseconds.
+     k value of 7919 resulted in gcd of 2183 and took 1.4220 microseconds.
+     k value of 64000 resulted in gcd of 27 and took 2.5600 microseconds.
+     k value of 65537 resulted in gcd of 263 and took 1.4220 microseconds.
+     k value of 8420742 resulted in gcd of 5 and took 2.5600 microseconds.
+     k value of 2147483647 resulted in gcd of 7412542 and took 1.1380 microseconds.
+     k value of 4157 resulted in gcd of 4158 and took 1.1380 microseconds.
+Timing tests are complete for this pair. The GCD should have been 2
+
+For GCD(21973,6923). It should be 301:
+Euclid returned a gcd of 301 and took 0.2840 microseconds.
+Extended Euclid returned a gcd of 301 and (a,b) of (6 ,-19) and took 0.2840 microseconds.
+Binary returned a gcd of 301 and took 0.2850 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 903 and took 1.7070 microseconds.
+     k value of 3 resulted in gcd of 6923 and took 0.5690 microseconds.
+     k value of 4 resulted in gcd of 903 and took 1.7070 microseconds.
+     k value of 6 resulted in gcd of 6923 and took 0.8530 microseconds.
+     k value of 11 resulted in gcd of 1345 and took 1.4220 microseconds.
+     k value of 19 resulted in gcd of 4562 and took 1.1380 microseconds.
+     k value of 28 resulted in gcd of 221 and took 1.4220 microseconds.
+     k value of 31 resulted in gcd of 2796 and took 0.8530 microseconds.
+     k value of 42 resulted in gcd of 1 and took 1.7060 microseconds.
+     k value of 73 resulted in gcd of 301 and took 0.8540 microseconds.
+     k value of 74 resulted in gcd of 1171 and took 1.1370 microseconds.
+     k value of 200 resulted in gcd of 433 and took 1.1380 microseconds.
+     k value of 209 resulted in gcd of 414 and took 1.1370 microseconds.
+     k value of 1951 resulted in gcd of 44 and took 0.8540 microseconds.
+     k value of 1954 resulted in gcd of 11 and took 1.4220 microseconds.
+     k value of 7919 resulted in gcd of 10 and took 1.1380 microseconds.
+     k value of 64000 resulted in gcd of 1 and took 1.1380 microseconds.
+     k value of 65537 resulted in gcd of 1 and took 1.1380 microseconds.
+     k value of 8420742 resulted in gcd of 6923 and took 0.8530 microseconds.
+     k value of 2147483647 resulted in gcd of 6923 and took 1.1380 microseconds.
+     k value of 169 resulted in gcd of 512 and took 0.8540 microseconds.
+Timing tests are complete for this pair. The GCD should have been 301
+
+For GCD(76141,240137). It should be 5857:
+Extended Euclid returned a gcd of 5857 and (a,b) of (19 ,-6) and took 0.2840 microseconds.
+Binary returned a gcd of 5857 and took 0.2850 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 3 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 4 resulted in gcd of 76141 and took 0.5680 microseconds.
+     k value of 6 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 11 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 19 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 28 resulted in gcd of 76141 and took 0.8540 microseconds.
+     k value of 31 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 42 resulted in gcd of 76141 and took 0.8540 microseconds.
+     k value of 73 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 74 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 200 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 209 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 1951 resulted in gcd of 76141 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 7919 resulted in gcd of 76141 and took 0.8540 microseconds.
+     k value of 64000 resulted in gcd of 76141 and took 0.8540 microseconds.
+     k value of 65537 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 8420742 resulted in gcd of 76141 and took 0.8540 microseconds.
+     k value of 2147483647 resulted in gcd of 76141 and took 0.8530 microseconds.
+     k value of 562 resulted in gcd of 76141 and took 0.8530 microseconds.
+Timing tests are complete for this pair. The GCD should have been 5857
+
+For GCD(111,11). It should be 1:
+Euclid returned a gcd of 1 and took 0.2850 microseconds.
+Extended Euclid returned a gcd of 1 and (a,b) of (1 ,-10) and took 0.2840 microseconds.
+Binary returned a gcd of 1 and took 0.2850 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 3 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 4 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 6 resulted in gcd of 11 and took 0.8540 microseconds.
+     k value of 11 resulted in gcd of 1 and took 1.4230 microseconds.
+     k value of 19 resulted in gcd of 6 and took 1.4220 microseconds.
+     k value of 28 resulted in gcd of 1 and took 1.7060 microseconds.
+     k value of 31 resulted in gcd of 3 and took 1.1380 microseconds.
+     k value of 42 resulted in gcd of 1 and took 1.1380 microseconds.
+     k value of 73 resulted in gcd of 5 and took 1.1380 microseconds.
+     k value of 74 resulted in gcd of 3 and took 0.5690 microseconds.
+     k value of 200 resulted in gcd of 3 and took 1.1370 microseconds.
+     k value of 209 resulted in gcd of 1 and took 1.7070 microseconds.
+     k value of 1951 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 7919 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 64000 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 65537 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 8420742 resulted in gcd of 1 and took 1.4220 microseconds.
+     k value of 2147483647 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 11 resulted in gcd of 1 and took 10.5240 microseconds.
+Timing tests are complete for this pair. The GCD should have been 1
+
+For GCD(121,11). It should be 11:
+Euclid returned a gcd of 11 and took 0.0000 microseconds.
+Extended Euclid returned a gcd of 11 and (a,b) of (0 ,1) and took 0.2840 microseconds.
+Binary returned a gcd of 11 and took 0.2840 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 3 resulted in gcd of 2 and took 1.7070 microseconds.
+     k value of 4 resulted in gcd of 11 and took 1.4230 microseconds.
+     k value of 6 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 11 resulted in gcd of 11 and took 0.2840 microseconds.
+     k value of 19 resulted in gcd of 1 and took 1.4220 microseconds.
+     k value of 28 resulted in gcd of 1 and took 1.7070 microseconds.
+     k value of 31 resulted in gcd of 8 and took 1.4220 microseconds.
+     k value of 42 resulted in gcd of 1 and took 1.4220 microseconds.
+     k value of 73 resulted in gcd of 11 and took 1.1380 microseconds.
+     k value of 74 resulted in gcd of 7 and took 1.1380 microseconds.
+     k value of 200 resulted in gcd of 7 and took 0.5690 microseconds.
+     k value of 209 resulted in gcd of 11 and took 0.2840 microseconds.
+     k value of 1951 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 1954 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 7919 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 64000 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 65537 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 8420742 resulted in gcd of 11 and took 0.8530 microseconds.
+     k value of 2147483647 resulted in gcd of 11 and took 0.5690 microseconds.
+     k value of 11 resulted in gcd of 11 and took 0.2840 microseconds.
+Timing tests are complete for this pair. The GCD should have been 11
+
+For GCD(809630641,1158399239). It should be 150461:
+Extended Euclid returned a gcd of 150461 and (a,b) of (3803 ,0) and took 0.2840 microseconds.
+Binary returned a gcd of 150461 and took 0.2850 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 3 resulted in gcd of 809630641 and took 1.1380 microseconds.
+     k value of 4 resulted in gcd of 809630641 and took 0.5690 microseconds.
+     k value of 6 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 11 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 19 resulted in gcd of 42612139 and took 1.7070 microseconds.
+     k value of 28 resulted in gcd of 809630641 and took 0.8540 microseconds.
+     k value of 31 resulted in gcd of 809630641 and took 0.8540 microseconds.
+     k value of 42 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 73 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 74 resulted in gcd of 809630641 and took 0.8540 microseconds.
+     k value of 200 resulted in gcd of 809630641 and took 0.8540 microseconds.
+     k value of 209 resulted in gcd of 42612139 and took 1.7070 microseconds.
+     k value of 1951 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 1954 resulted in gcd of 809630641 and took 0.8530 microseconds.
+     k value of 7919 resulted in gcd of 102239 and took 1.4220 microseconds.
+     k value of 64000 resulted in gcd of 809630641 and took 1.1380 microseconds.
+     k value of 65537 resulted in gcd of 809630641 and took 0.8540 microseconds.
+     k value of 8420742 resulted in gcd of 809630641 and took 1.1380 microseconds.
+     k value of 2147483647 resulted in gcd of 809630641 and took 1.1380 microseconds.
+     k value of 44362 resulted in gcd of 809630641 and took 0.8530 microseconds.
+Timing tests are complete for this pair. The GCD should have been 150461
+
+For GCD(1440157259,1941081523). It should be 62615533:
+Extended Euclid returned a gcd of 62615533 and (a,b) of (-4 ,0) and took 0.2840 microseconds.
+Binary returned a gcd of 62615533 and took 0.2840 microseconds.
+Running Sorenson's k-ary with 21 values of k:
+     k value of 2 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 3 resulted in gcd of 1440157259 and took 0.8530 microseconds.
+     k value of 4 resulted in gcd of 1440157259 and took 0.8530 microseconds.
+     k value of 6 resulted in gcd of 1440157259 and took 0.8530 microseconds.
+     k value of 11 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 19 resulted in gcd of 1440157259 and took 0.8530 microseconds.
+     k value of 28 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 31 resulted in gcd of 48476541 and took 2.8440 microseconds.
+     k value of 42 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 73 resulted in gcd of 1440157259 and took 1.1380 microseconds.
+     k value of 74 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 200 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 209 resulted in gcd of 1440157259 and took 1.1380 microseconds.
+     k value of 1951 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 1954 resulted in gcd of 1440157259 and took 0.8530 microseconds.
+     k value of 7919 resulted in gcd of 181861 and took 1.4220 microseconds.
+     k value of 64000 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 65537 resulted in gcd of 1440157259 and took 1.1370 microseconds.
+     k value of 8420742 resulted in gcd of 1440157259 and took 0.8540 microseconds.
+     k value of 2147483647 resulted in gcd of 1440157259 and took 1.1380 microseconds.
+     k value of 30227 resulted in gcd of 1440157259 and took 1.1380 microseconds.
+Timing tests are complete for this pair. The GCD should have been 62615533
+
+-- Complete. -- Total time: 6.9669 milliseconds. -- Complete. --
